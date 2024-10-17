@@ -1,0 +1,88 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Myra"
+    },
+    {
+      "id": "d222",
+      "name": "Kimberly Sauer"
+    },
+    {
+      "id": "79c0",
+      "name": "Danielle Gibson"
+    },
+    {
+      "id": "2d0c",
+      "name": "Isaac Schiller"
+    },
+    {
+      "id": "d773",
+      "name": "Isaac Kirlin"
+    }
+  ],
+  "albums": [
+    {
+      "id": "db38",
+      "userId": "1",
+      "title": "Refined Soft Pants"
+    },
+    {
+      "id": "39f1",
+      "userId": "1",
+      "title": "Sleek Metal Chair"
+    },
+    {
+      "id": "9c18",
+      "userId": "1",
+      "title": "Rustic Bronze Chips"
+    },
+    {
+      "id": "679d",
+      "userId": "1",
+      "title": "Luxurious Concrete Chair"
+    },
+    {
+      "id": "75f4",
+      "userId": "1",
+      "title": "Intelligent Frozen Sausages"
+    },
+    {
+      "id": "3370",
+      "userId": "1",
+      "title": "Sleek Soft Tuna"
+    },
+    {
+      "id": "b24c",
+      "userId": "1",
+      "title": "Gorgeous Soft Shoes"
+    },
+    {
+      "id": "091e",
+      "userId": "d222",
+      "title": "Luxurious Metal Salad"
+    }
+  ],
+  "photos": [
+    {
+      "id": "c6b2",
+      "albumId": "db38",
+      "url": "https://loremflickr.com/150/150/abstract?lock=59225"
+    },
+    {
+      "id": "4174",
+      "albumId": "db38",
+      "url": "https://loremflickr.com/150/150/abstract?lock=30203"
+    },
+    {
+      "id": "3e4e",
+      "albumId": "39f1",
+      "url": "https://loremflickr.com/150/150/abstract?lock=87564"
+    },
+    {
+      "id": "e26f",
+      "albumId": "39f1",
+      "url": "https://loremflickr.com/150/150/abstract?lock=28807"
+    }
+  ]
+}
